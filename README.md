@@ -46,7 +46,8 @@ useEffect(() => {
                 </ul>
 </div>
 ```
-![Screenshot from 2024-07-13 18-14-27](https://github.com/user-attachments/assets/b05d9c5e-00cb-4f69-a8b6-3166913b2f13)
+![Screenshot from 2024-07-13 18-14-27 (1)](https://github.com/user-attachments/assets/9fe99bdc-5f25-4af3-b7ed-4b2644927ef1)
+
 
 
 The source codes are all available in files. 
