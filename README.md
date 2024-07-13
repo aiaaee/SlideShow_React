@@ -37,7 +37,7 @@ useEffect(() => {
 ```
 4. Finally, we write our variables in JSX elements‌.
 
-‍‍```
+```
 <div className='nav-links' ref={linksContainerRef}>
                 <ul className='list' ref={linksRef}>
                 </ul>
