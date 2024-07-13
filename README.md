@@ -40,6 +40,7 @@ useEffect(() => {
 ```
 <div className='nav-links' ref={linksContainerRef}>
                 <ul className='list' ref={linksRef}>
+                         ...
                 </ul>
 </div>
 ```
