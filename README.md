@@ -3,6 +3,7 @@ Creating a slideshow using React and creating a dropdown menu without using CSS 
 
 in this project we want to write dropdown menu of slideshow with React hooks as useRef and UseEffect 
 
+![photo12550864676](https://github.com/user-attachments/assets/c0c6ab13-ec95-4f29-a1b9-bc5ebfaae9aa)
 
 first of all , we Create our component and after that create a simple Slideshow.
 when we set a Usestate for clicking on menu icon , we can set a slideshow height with css but if we want to write an optimize codes with react , it's better to pay attention to reacts hook , 
