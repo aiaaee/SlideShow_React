@@ -11,7 +11,7 @@ when we set a Usestate for clicking on menu icon , we can set a slideshow height
 react hooks make component development easier while also improving readability and organization
 In this project, I will teach you step by step how to use React hooks to create an optimized and widely used slideshow.
 
-1. import UseEffect and useRef from react package
+1. import UseEffect and useRef from react package:
 
 ```
 import React, { useEffect, useRef, useState } from 'react'
