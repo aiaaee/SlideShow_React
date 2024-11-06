@@ -1,4 +1,4 @@
-# How can I setting a slideshow using React hooks and without using CSS?  
+# How can I setting a slideshow using React hooks and without using CSS? 
 Creating a slideshow using React and creating a dropdown menu without using CSS  Ability to connect to the server
 
 in this project we want to write dropdown menu of slideshow with React hooks as useRef and UseEffect 
